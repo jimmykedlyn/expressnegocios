@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6993f775-701b-41a2-9b8a-ce9a209936a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2019/06/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/como-vender-na-olx.html" beforeDir="false" afterPath="$PROJECT_DIR$/como-vender-na-olx.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/como-vender-no-facebook.html" beforeDir="false" afterPath="$PROJECT_DIR$/como-vender-no-facebook.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/como-vender-no-instagram.html" beforeDir="false" afterPath="$PROJECT_DIR$/como-vender-no-instagram.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contato.html" beforeDir="false" afterPath="$PROJECT_DIR$/contato.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obrigado.html" beforeDir="false" afterPath="$PROJECT_DIR$/obrigado.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pagamento-aprovado.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagamento-aprovado.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pagamento-recusado.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagamento-recusado.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sobre.html" beforeDir="false" afterPath="$PROJECT_DIR$/sobre.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/treinamentos.html" beforeDir="false" afterPath="$PROJECT_DIR$/treinamentos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/treinamentos.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="22" column="48" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="22" selection-end-column="48" />
+            <state relative-caret-position="313">
+              <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -39,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/como-vender-na-olx.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="23" selection-end-column="48" />
+            <state relative-caret-position="468">
+              <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -48,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/como-vender-no-facebook.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="23" selection-end-column="48" />
+            <state relative-caret-position="468">
+              <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -57,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/como-vender-no-instagram.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="23" selection-end-column="48" />
+            <state relative-caret-position="468">
+              <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -66,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contato.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="23" column="48" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="23" selection-end-column="48" />
+            <state relative-caret-position="365">
+              <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -75,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/obrigado.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="23" selection-end-column="48" />
+            <state relative-caret-position="339">
+              <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -84,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pagamento-aprovado.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="23" selection-end-column="48" />
+            <state relative-caret-position="339">
+              <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -93,26 +91,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pagamento-recusado.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="23" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sobre.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="1394" column="39" selection-start-line="1394" selection-start-column="39" selection-end-line="1394" selection-end-column="39" />
+            <state relative-caret-position="339">
+              <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNAME">
+        <entry file="file://$PROJECT_DIR$/sobre.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+            <state relative-caret-position="260">
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -129,15 +118,17 @@
       <find>index.html</find>
       <find>contato.html</find>
       <find>html</find>
+      <find>https://www.briskforms.com/go/c2f1a1acede2447711b992ab1b16d1e4</find>
     </findStrings>
     <replaceStrings>
       <replace>/</replace>
       <replace>.html</replace>
       <replace />
+      <replace>https://www.briskforms.com/go/963cd0558ba7534c7c7ec3c84b68165d</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>C:\Users\jimmy\Desktop\expressnegocios</dir>
       <dir>C:\Users\jimmy\Desktop\expressnegocios\wp-content\uploads\elementor\css</dir>
+      <dir>C:\Users\jimmy\Desktop\expressnegocios</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -159,20 +150,20 @@
         <option value="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-279.css" />
         <option value="$PROJECT_DIR$/wp-content/uploads/elementor/css/global.css" />
         <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/page/1/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/como-vender-na-olx.html" />
         <option value="$PROJECT_DIR$/como-vender-no-facebook.html" />
+        <option value="$PROJECT_DIR$/como-vender-no-instagram.html" />
         <option value="$PROJECT_DIR$/contato.html" />
         <option value="$PROJECT_DIR$/obrigado.html" />
         <option value="$PROJECT_DIR$/pagamento-aprovado.html" />
         <option value="$PROJECT_DIR$/pagamento-recusado.html" />
-        <option value="$PROJECT_DIR$/como-vender-no-instagram.html" />
-        <option value="$PROJECT_DIR$/page/1/index.html" />
         <option value="$PROJECT_DIR$/sobre.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="170" />
     <option name="y" value="91" />
     <option name="width" value="1026" />
@@ -251,12 +242,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562033298473</updated>
       <workItem from="1562033303725" duration="1788000" />
-      <workItem from="1562106434137" duration="3832000" />
+      <workItem from="1562106434137" duration="4569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5620000" />
+    <option name="totallyTimeSpent" value="6357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -377,66 +368,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="22" column="48" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="22" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/como-vender-na-olx.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="23" selection-end-column="48" />
+        <state relative-caret-position="468">
+          <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/como-vender-no-facebook.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="23" selection-end-column="48" />
+        <state relative-caret-position="468">
+          <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/como-vender-no-instagram.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="23" selection-end-column="48" />
+        <state relative-caret-position="468">
+          <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contato.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="23" column="48" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="23" selection-end-column="48" />
+        <state relative-caret-position="365">
+          <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/obrigado.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="23" selection-end-column="48" />
+        <state relative-caret-position="339">
+          <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pagamento-aprovado.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="23" selection-end-column="48" />
+        <state relative-caret-position="339">
+          <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pagamento-recusado.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="23" selection-end-column="48" />
+        <state relative-caret-position="339">
+          <caret line="18" column="95" selection-start-line="18" selection-start-column="95" selection-end-line="18" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/treinamentos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sobre.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="1394" column="39" selection-start-line="1394" selection-start-column="39" selection-end-line="1394" selection-end-column="39" />
+        <state relative-caret-position="260">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
         </state>
       </provider>
     </entry>
