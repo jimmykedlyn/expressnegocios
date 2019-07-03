@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6993f775-701b-41a2-9b8a-ce9a209936a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/como-vender-na-olx.html" beforeDir="false" afterPath="$PROJECT_DIR$/como-vender-na-olx.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/como-vender-no-facebook.html" beforeDir="false" afterPath="$PROJECT_DIR$/como-vender-no-facebook.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/como-vender-no-instagram.html" beforeDir="false" afterPath="$PROJECT_DIR$/como-vender-no-instagram.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contato.html" beforeDir="false" afterPath="$PROJECT_DIR$/contato.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obrigado.html" beforeDir="false" afterPath="$PROJECT_DIR$/obrigado.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagamento-aprovado.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagamento-aprovado.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagamento-recusado.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagamento-recusado.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sobre.html" beforeDir="false" afterPath="$PROJECT_DIR$/sobre.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/treinamentos.html" beforeDir="false" />
-    </list>
+    <list default="true" id="6993f775-701b-41a2-9b8a-ce9a209936a4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -25,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="313">
               <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sitemap.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -160,10 +157,11 @@
         <option value="$PROJECT_DIR$/pagamento-aprovado.html" />
         <option value="$PROJECT_DIR$/pagamento-recusado.html" />
         <option value="$PROJECT_DIR$/sobre.html" />
+        <option value="$PROJECT_DIR$/sitemap.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="170" />
     <option name="y" value="91" />
     <option name="width" value="1026" />
@@ -242,12 +240,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562033298473</updated>
       <workItem from="1562033303725" duration="1788000" />
-      <workItem from="1562106434137" duration="4569000" />
+      <workItem from="1562106434137" duration="4892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6357000" />
+    <option name="totallyTimeSpent" value="6680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -435,6 +433,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
           <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
